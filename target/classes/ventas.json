@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "fechaVenta": "2024-10-01T10:15:30",
+    "idCliente": 101,
+    "totalVenta": 235.50
+  },
+  {
+    "id": 2,
+    "fechaVenta": "2024-10-05T14:45:10",
+    "idCliente": 102,
+    "totalVenta": 1230.00
+  },
+  {
+    "id": 3,
+    "fechaVenta": "2024-10-12T08:30:00",
+    "idCliente": 103,
+    "totalVenta": 450.75
+  },
+  {
+    "id": 4,
+    "fechaVenta": "2024-10-15T18:20:50",
+    "idCliente": 101,
+    "totalVenta": 980.10
+  },
+  {
+    "id": 5,
+    "fechaVenta": "2024-10-17T13:00:25",
+    "idCliente": 104,
+    "totalVenta": 320.00
+  },
+  {
+    "id": 6,
+    "fechaVenta": "2024-10-18T09:55:40",
+    "idCliente": 105,
+    "totalVenta": 1500.99
+  },
+  {
+    "id": 7,
+    "fechaVenta": "2024-10-18T11:45:15",
+    "idCliente": 102,
+    "totalVenta": 670.30
+  },
+  {
+    "id": 8,
+    "fechaVenta": "2024-10-18T12:10:05",
+    "idCliente": 106,
+    "totalVenta": 50.00
+  },
+  {
+    "id": 9,
+    "fechaVenta": "2024-10-18T12:30:15",
+    "idCliente": 107,
+    "totalVenta": 750.50
+  },
+  {
+    "id": 10,
+    "fechaVenta": "2024-10-18T12:55:45",
+    "idCliente": 108,
+    "totalVenta": 990.75
+  }
+]

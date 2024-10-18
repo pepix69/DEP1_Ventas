@@ -1,0 +1,6 @@
+com\upiiz\dep1\repository\VentasRepository.class
+com\upiiz\dep1\controllers\VentasController.class
+com\upiiz\dep1\Dep1Application.class
+com\upiiz\dep1\services\VentasService.class
+com\upiiz\dep1\models\Venta.class
+com\upiiz\dep1\repository\VentasRepository$1.class
